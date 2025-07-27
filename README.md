@@ -14,7 +14,7 @@ This project implements the Blossom Algorithm to compute maximum matchings in ge
   - Larger graph involving nested blossoms and complex augmenting paths
     
 ## Notes:
-While the core Hungarian component was developed by a classmate, I:
+While the Hungarian component was developed by a classmate, I:
 - Designed and implemented the blossom contraction, augmenting path logic, and alternating forest traversal
 - Integrated both algorithms under a single interface with a bipartite=True/False switch
 - Added lowest common ancestor (LCA) detection and handling for blossom structures
